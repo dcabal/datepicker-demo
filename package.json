@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "18.1.0",
     "react-native": "0.70.6",
+    "react-native-carplay": "^2.1.0",
     "react-native-date-picker": "^4.2.10"
   },
   "devDependencies": {
